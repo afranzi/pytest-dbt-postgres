@@ -1,0 +1,27 @@
+version: 2
+
+sources:
+    - name: external
+      database: "{{ env_var('DBT_POSTGRES_TEST_DATABASE') }}"
+      schema: external
+      tables:
+        - name: customers
+          description: Contains all the customers details
+          columns:
+            - name: id
+              data_type: numeric
+            - name: name
+              data_type: text
+            - name: created_at
+              data_type: date
+        - name: orders
+          description: Order details by customer
+          columns:
+            - name: id
+              data_type: numeric
+            - name: customer_id
+              data_type: numeric
+            - name: potato_id
+              data_type: numeric
+            - name: quantity
+              data_type: numeric

@@ -1,0 +1,13 @@
+version: 2
+seeds:
+  - name: raw_potatoes
+    description: List of available Potatoes in the Tomato's shop.
+    config:
+      column_types:
+        id: int8
+        name: text
+        color: text
+        taste: text
+        rarity: text
+        score: int8
+        price: int8

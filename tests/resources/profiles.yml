@@ -1,0 +1,12 @@
+dummy_gummy:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "{{ env_var('DBT_POSTGRES_TEST_HOST') }}"
+      user: "{{ env_var('DBT_POSTGRES_TEST_USER') }}"
+      password: "{{ env_var('DBT_POSTGRES_TEST_PASSWORD') }}"
+      port: "{{ env_var('DBT_POSTGRES_TEST_PORT') | int }}"
+      dbname: "{{ env_var('DBT_POSTGRES_TEST_DATABASE') }}"
+      schema: "dbt_unittest"
+      threads: 2

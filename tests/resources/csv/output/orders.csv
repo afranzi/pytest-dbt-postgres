@@ -1,0 +1,81 @@
+customer_name,potato_name,orders,quantity,price,total_price
+"Alice Johnson","Arran Pilot",1,3,12,62
+"Alice Johnson","Jersey Royal",1,1,8,62
+"Alice Johnson","King Edward",1,2,10,62
+"Alice Johnson","Pink Fir Apple",1,1,8,62
+"Alice Johnson","Yukon Gold",1,2,24,62
+"Bob Smith","Adirondack Blue",1,1,15,291
+"Bob Smith","Arran Pilot",1,5,20,291
+"Bob Smith","Charlotte",1,4,8,291
+"Bob Smith","Desiree",1,4,48,291
+"Bob Smith","Kipfler",1,3,15,291
+"Bob Smith","Maris Piper",3,10,80,291
+"Bob Smith","Purple Majesty",1,3,21,291
+"Bob Smith","Red Pontiac",1,4,36,291
+"Bob Smith","Rooster",1,4,12,291
+"Bob Smith","Yukon Gold",1,3,36,291
+"Carol Martinez","Adirondack Blue",1,2,30,427
+"Carol Martinez","Adirondack Red",1,4,24,427
+"Carol Martinez","Arran Pilot",1,2,8,427
+"Carol Martinez","Charlotte",3,12,24,427
+"Carol Martinez","Kenya Karibu",1,5,150,427
+"Carol Martinez","Kerr's Pink",1,5,15,427
+"Carol Martinez","Kipfler",2,4,20,427
+"Carol Martinez","Maris Piper",1,1,8,427
+"Carol Martinez","Red Pontiac",1,4,36,427
+"Carol Martinez","Russet",1,5,50,427
+"Carol Martinez","Vitelotte",1,2,38,427
+"Carol Martinez","Yukon Gold",1,2,24,427
+"David Lee","Adirondack Blue",1,4,60,333
+"David Lee","Arran Pilot",1,3,12,333
+"David Lee","Desiree",1,5,60,333
+"David Lee","Jersey Royal",1,1,8,333
+"David Lee","Purple Majesty",1,4,28,333
+"David Lee","Sweet Potato",1,5,60,333
+"David Lee","Vitelotte",1,3,57,333
+"David Lee","Yukon Gold",2,4,48,333
+"Emma Wilson","Adirondack Blue",4,11,165,418
+"Emma Wilson","Adirondack Red",1,4,24,418
+"Emma Wilson","Arran Pilot",1,3,12,418
+"Emma Wilson","Desiree",1,1,12,418
+"Emma Wilson","Jersey Royal",1,3,24,418
+"Emma Wilson","Kenya Karibu",1,3,90,418
+"Emma Wilson","Kerr's Pink",1,2,6,418
+"Emma Wilson","Pink Fir Apple",1,5,40,418
+"Emma Wilson","Purple Majesty",1,5,35,418
+"Emma Wilson","Russet",1,1,10,418
+"Frank Brown","Desiree",1,5,60,248
+"Frank Brown","Maris Piper",1,2,16,248
+"Frank Brown","Pink Fir Apple",1,4,32,248
+"Frank Brown","Red Pontiac",1,5,45,248
+"Frank Brown","Vitelotte",1,5,95,248
+"Grace Davis","Charlotte",2,3,6,338
+"Grace Davis","Kenya Karibu",1,5,150,338
+"Grace Davis","King Edward",1,5,25,338
+"Grace Davis","Kipfler",1,2,10,338
+"Grace Davis","Pink Fir Apple",1,2,16,338
+"Grace Davis","Purple Majesty",2,5,35,338
+"Grace Davis","Sweet Potato",1,3,36,338
+"Grace Davis","Yukon Gold",1,5,60,338
+"Henry Garcia","Arran Pilot",2,7,28,433
+"Henry Garcia","Charlotte",2,4,8,433
+"Henry Garcia","Kerr's Pink",1,2,6,433
+"Henry Garcia","Kipfler",1,5,25,433
+"Henry Garcia","Maris Piper",2,8,64,433
+"Henry Garcia","Pink Fir Apple",1,2,16,433
+"Henry Garcia","Purple Majesty",1,2,14,433
+"Henry Garcia","Rooster",1,1,3,433
+"Henry Garcia","Vitelotte",3,11,209,433
+"Henry Garcia","Yukon Gold",1,5,60,433
+"Isabel Rodriguez","Arran Pilot",1,3,12,363
+"Isabel Rodriguez","Charlotte",1,3,6,363
+"Isabel Rodriguez","Kenya Karibu",1,5,150,363
+"Isabel Rodriguez","King Edward",1,3,15,363
+"Isabel Rodriguez","Maris Piper",1,4,32,363
+"Isabel Rodriguez","Pink Fir Apple",3,11,88,363
+"Isabel Rodriguez","Sweet Potato",1,5,60,363
+"Jack Taylor","Arran Pilot",1,3,12,239
+"Jack Taylor","Blue Congo",2,3,21,239
+"Jack Taylor","Charlotte",1,4,8,239
+"Jack Taylor","Kenya Karibu",2,5,150,239
+"Jack Taylor","Yukon Gold",1,4,48,239
