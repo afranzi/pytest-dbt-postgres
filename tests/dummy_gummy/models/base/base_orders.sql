@@ -12,5 +12,5 @@ final AS (
     FROM orders
 )
 
-SELECT * 
+SELECT *
 FROM final

@@ -3,7 +3,7 @@ WITH potatoes AS (
     FROM {{ ref('raw_potatoes')}}
 ),
 final AS (
-    SELECT 
+    SELECT
         id AS potato_id,
         name,
         color,

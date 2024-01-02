@@ -29,7 +29,7 @@ potato_sales AS (
 ),
 
 final AS (
-    SELECT 
+    SELECT
         customer_name,
         potato_name,
         orders,

@@ -22,4 +22,3 @@ seeds:
 models:
   dummy_gummy:
     +materialized: view
-
